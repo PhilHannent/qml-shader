@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>elmstone-logo-2400-260.png</file>
+        <file>ShaderItem.qml</file>
+    </qresource>
+</RCC>
